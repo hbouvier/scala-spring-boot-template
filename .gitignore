@@ -1,0 +1,6 @@
+.bloop/
+.metals/
+target/
+project/.bloop/
+project/target/
+plugins.sbt-disabled
